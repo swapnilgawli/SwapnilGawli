@@ -1,5 +1,5 @@
 ## Hi there 👋
-Business Analytics & Consultancy Certified | Generative AI certified.
+This is Swapnil Milan Gawli a Business Analytics & Consultancy Certified | Generative AI certified.
 Turning data into stories and insights that drive business impact.
 Former Practo intern
 <!--
